@@ -6952,6 +6952,17 @@
     },
 
     {
+        "name": "Molotov",
+        "url": "https://www.molotov.tv/account/profile?mode=delete_account",
+        "difficulty": "easy",
+        "notes": "Login to your account, go to your profile page. Scroll to the \"Supprimer mon compte\" section and click on \"Poursuivre\". Enter your password and click on \"Supprimer\".",
+        "notes_fr": "Connectez-vous à votre compte et rendez-vous sur votre page profil. Descendez vers la section \"Supprimer mon compte\" et cliquez sur \"Poursuivre\". Valider en saisissant votre mot de passe puis cliquez sur \"Supprimer\".",
+        "domains": [
+            "molotov.tv"
+        ]
+    },
+
+    {
         "name": "Money Dashboard",
         "url": "https://help.moneydashboard.com/hc/requests/new",
         "difficulty": "hard",
